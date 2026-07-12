@@ -29,10 +29,15 @@ NL2SQL application converting natural language into validated PostgreSQL queries
 ## 🛠 Tech Stack
 
 **AI & ML:** LLMs · RAG · Transformers · Embeddings · Prompt Engineering
+
 **Frameworks:** FastAPI · LlamaIndex · LangChain · Streamlit
+
 **AI APIs:** OpenAI · Gemini · Anthropic · Hugging Face
+
 **Databases:** PostgreSQL · ChromaDB · MySQL
+
 **Tools:** Docker · Git · AWS · Render
+
 **Languages:** Python · SQL
 
 ---
