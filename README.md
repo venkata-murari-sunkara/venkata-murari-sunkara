@@ -11,6 +11,11 @@
 
 ## 🚀 Featured Projects
 
+### [LogSense](https://github.com/venkata-murari-sunkara/logsense)
+Log anomaly detection that explains each flagged case using similar past incidents as evidence, then drafts an incident ticket for an engineer to review. The detector scores 99.88% accuracy (0.979 F1) on 115,013 held-out HDFS log blocks. Evidence-backed explanations gave the right verdict about 86% of the time, versus about 31% without evidence (300 cases, approximate keyword check).
+
+🔗 [Live app](https://logsense-production-24c7.up.railway.app/) · [Demo video](https://youtu.be/Fgj806s_040) · [Project page](https://venkata-murari-sunkara.netlify.app/logsense/) 
+
 ### [GroundTruth AI](https://github.com/venkata-murari-sunkara/GroundTruth-AI)
 Production-style LLM benchmarking platform evaluating GPT-4o Mini, Gemini 2.5 Flash, and Claude Haiku 4.5 on accuracy, semantic similarity, latency, and cost.
 **Finding:** up to 8x cost variance among models scoring within a comparable 0.89–0.98 semantic-quality band.
@@ -28,15 +33,15 @@ NL2SQL application converting natural language into validated PostgreSQL queries
 
 ## 🛠 Tech Stack
 
-**AI & ML:** LLMs · RAG · Transformers · Embeddings · Prompt Engineering
+**AI & ML:** LLMs · RAG · Transformers · Embeddings · Prompt Engineering · scikit-learn
 
 **Frameworks:** FastAPI · LlamaIndex · LangChain · Streamlit
 
-**AI APIs:** OpenAI · Gemini · Anthropic · Hugging Face
+**AI APIs:** OpenAI · Gemini · Anthropic · Hugging Face · Groq
 
-**Databases:** PostgreSQL · ChromaDB · MySQL
+**Databases:** PostgreSQL · ChromaDB · MySQL · pgvector
 
-**Tools:** Docker · Git · AWS · Render
+**Tools:** Docker · Git · AWS · Render · Railway
 
 **Languages:** Python · SQL
 
