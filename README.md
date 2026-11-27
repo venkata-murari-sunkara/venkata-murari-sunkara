@@ -27,6 +27,7 @@ Full-stack RAG application — upload research papers, ask questions, get source
 
 ### [Explainable SQL Copilot](https://github.com/venkata-murari-sunkara/Explainable-SQL-Copilot)
 NL2SQL application converting natural language into validated PostgreSQL queries, with a two-layer safety system and human-in-the-loop approval before execution.
+
 🔗 [Live Demo](https://explainable-sql-copilot-q75hqpetgu3zxbaynczk3u.streamlit.app/)
 
 ---
